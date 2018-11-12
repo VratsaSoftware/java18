@@ -11,11 +11,11 @@ __Duration__: Nov 2018 - Nov 2019
   1. [Slides](#Presentations)
   1. [Slack](#slack)
   1. [Tutorials](#tutorials)
+  1. [Courses](#courses)
+  1. [License](#license)
   <!-- 1. [Issues](#issues)
   1. [Resources](#resources) -->
-  1. [Courses](#courses)
   <!-- 1. [Repos](#repos) -->
-  1. [License](#license)
 
 ## Links
 
