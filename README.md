@@ -19,41 +19,37 @@ __Duration__: Nov 2018 - Nov 2019
 
 ## Links
 
-Github: [Link](https://github.com/android-soft-uni)
+Github: [Link](https://github.com/VratsaSoftware/java18)
 
 ## Schedule
 ### Java Basics
 
 | Lecture | Date | Tutor | Time | Hall |
 |---------|:-----|:------|:-----|:-----|
-| Data types | 14 Feb | Dimitar Danailov | 18:30 | Experience | 
-| Operators | 14 Feb | Dimitar Danailov | 18:30 | Experience |
-| Methods |  21 Feb | Teodor Kostadinov | 18:30 | Experience | 
-| Conditional statements - Part 1 | 28 Feb | Teodor Kostadinov | 18:30 | Experience |
-| Conditional statements - Part 2 |  7 Mar | Dimitar Danailov | 18:30 | Experience |
-| Loops - Part 1 | 14 Mar | Dimitar Danailov | 18:30 | Experience |
-| Loops - Part 2 | 21 Mar | Teodor Kostadinov | 18:30 | Experience | 
-| Loops - Exercises | 28 Mar | Teodor Kostadinov | 18:30 | Experience |
-| Arrays - Part 1 | 4 Apr | Dimitar Danailov | 18:30 | Experience |
-| Arrays - Part 2 | 4 Apr | Dimitar Danailov | 18:30 | Experience |
-| Code quality | 4 Apr | Dimitar Danailov | 18:30 | Experience |
-| Strings | 4 Apr | Dimitar Danailov | 18:30 | Experience |
-| Exercises + GitHub | 4 Apr | Dimitar Danailov | 18:30 | Experience |
-| Revision | 4 Apr | Dimitar Danailov | 18:30 | Experience |
-| Exam | 4 Apr | Dimitar Danailov | 18:30 | Experience |
-| Final Project | 4 Apr | Dimitar Danailov | 18:30 | Experience |
+| Data types | 17 Nov | Liliya Mihaylova | 10:00 / 13:30 | IT Center | 
+| Operators | 19 / 20 Nov | Tihomir Krastev | 19:30 | IT Center |
+| Methods |  24 Nov | Liliya Mihaylova | 10:00 / 13:30 | IT Center | 
+| Conditional statements - Part 1 | 27 / 28 Nov | Tihomir Krastev | 19:30 | IT Center |
+| Conditional statements - Part 2 |  1 Dec | Liliya Mihaylova | 10:00 / 13:30 | IT Center |
+| Loops - Part 1 | 3 / 4 Dec | Tihomir Krastev | 19:30 | IT Center |
+| Loops - Part 2 | 8 Dec | Liliya Mihaylova | 10:00 / 13:30 | IT Center | 
+| Loops - Exercises | 10 / 11 Dec | Tihomir Krastev | 19:30 | IT Center |
+| Arrays - Part 1 | 15 Dec | Liliya Mihaylova | 10:00 / 13:30 | IT Center |
+| Arrays - Part 2 | 17 / 18 Dec | Tihomir Krastev | 19:30 | IT Center |
+| Code quality | 22 Dec | Teodor Kostadinov | 10:00 / 13:30 | IT Center |
+| Strings | 5 Jan | Liliya Mihaylova | 10:00 / 13:30 | IT Center |
+| Exercises + GitHub | 7 / 8 Jan | Tihomir Krastev | 19:30 | IT Center |
+| Revision | 12 Jan | Liliya Mihaylova | 10:00 / 13:30 | IT Center |
+| Exam | 26 Jan | Liliya Mihaylova | 10:00 / 13:30 | IT Center |
+| Final Project | 2 / 3 Feb | All | 09:00 - 18:00 | IT Center |
 
 ## Tutors
 
 ### Tihomir Krastev
 
-I have been working at Software Industry since 2015. 
-I have experience with different technologies, frameworks and libraries.
-
-More about me:
-- [Github](https://github.com/krystev)
-
 ### Liliya Mihaylova
+
+### Teodor Kostadinov
 
 ## Exam
 
@@ -76,10 +72,10 @@ Channels:
 `#resources` - This Channel is for Material/Resources that you find and that can be used in the course.
 
 ## Presentations
-
+### Java Basics
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
-| Data types | [Link]() | [Video]() | |
+| Data types | [Link]() | [Video]() | [Repo]() |
 | Operators | [Link]() | [Video]() | [Repo]() |
 | Methods | [Link]() | [Video]() | [Repo]() |
 | Conditional statements - Part 1 | [Link]() | [Video]() | [Repo]() |
@@ -99,7 +95,7 @@ Channels:
 - [15 Slack tips in 5 minutes](https://www.youtube.com/watch?v=gvJAcElFMUU)
 
 ### Git
-- [Dimitar Danailov - git commands](https://gist.github.com/dimitardanailov/6e401c1aff0a08f2a77c496ebe07fb3c)
+- [Useful git commands](https://gist.github.com/dimitardanailov/6e401c1aff0a08f2a77c496ebe07fb3c)
 <!--
 ### OOP
 - [Introducing object-oriented programming | lynda.com overview](https://www.youtube.com/watch?v=NUl8lcbeN2Y)
