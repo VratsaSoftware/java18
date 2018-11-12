@@ -11,10 +11,10 @@ __Duration__: Nov 2018 - Nov 2019
   1. [Slides](#Presentations)
   1. [Slack](#slack)
   1. [Tutorials](#tutorials)
-  1. [Issues](#issues)
-  1. [Resources](#resources)
+  <!-- 1. [Issues](#issues)
+  1. [Resources](#resources) -->
   1. [Courses](#courses)
-  1. [Repos](#repos)
+  <!-- 1. [Repos](#repos) -->
   1. [License](#license)
 
 ## Links
@@ -64,6 +64,8 @@ Slack group: [Link](https://vratsasoftware.slack.com/messages/CDWLPRPNG)
 Channels:
 
 `#general` - This channel is for workspace-wide communication and announcements. All members are in this channel.
+
+`#java18` - This channel is for workspace-wide communication and announcements for java members in this course only.
 
 `#java-self-help` - Here we organize live mentoring and tutoring sessions. Watch this space for the next session!
 
