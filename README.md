@@ -26,21 +26,21 @@ Github: [Link](https://github.com/VratsaSoftware/java18)
 
 | Lecture | Date | Tutor | Time | Hall |
 |---------|:-----|:------|:-----|:-----|
-| Data types | 17 Nov | Liliya Mihaylova | 10:00 / 13:30 | IT Center | 
+| Data types | 17 Nov | Liliya Mihaylova | 09:00 / 12:00 | IT Center | 
 | Operators | 19 / 20 Nov | Tihomir Krastev | 19:30 | IT Center |
-| Methods |  24 Nov | Liliya Mihaylova | 10:00 / 13:30 | IT Center | 
+| Methods |  24 Nov | Liliya Mihaylova | 09:00 / 12:00 | IT Center | 
 | Conditional statements - Part 1 | 27 / 28 Nov | Tihomir Krastev | 19:30 | IT Center |
-| Conditional statements - Part 2 |  1 Dec | Liliya Mihaylova | 10:00 / 13:30 | IT Center |
+| Conditional statements - Part 2 |  1 Dec | Liliya Mihaylova | 09:00 / 12:00 | IT Center |
 | Loops - Part 1 | 3 / 4 Dec | Tihomir Krastev | 19:30 | IT Center |
-| Loops - Part 2 | 8 Dec | Liliya Mihaylova | 10:00 / 13:30 | IT Center | 
+| Loops - Part 2 | 8 Dec | Liliya Mihaylova | 09:00 / 12:00 | IT Center | 
 | Loops - Exercises | 10 / 11 Dec | Tihomir Krastev | 19:30 | IT Center |
-| Arrays - Part 1 | 15 Dec | Liliya Mihaylova | 10:00 / 13:30 | IT Center |
+| Arrays - Part 1 | 15 Dec | Liliya Mihaylova | 09:00 / 12:00 | IT Center |
 | Arrays - Part 2 | 17 / 18 Dec | Tihomir Krastev | 19:30 | IT Center |
-| Code quality | 22 Dec | Teodor Kostadinov | 10:00 / 13:30 | IT Center |
-| Strings | 5 Jan | Liliya Mihaylova | 10:00 / 13:30 | IT Center |
+| Code quality | 22 Dec | Teodor Kostadinov | 09:00 / 12:00 | IT Center |
+| Strings | 5 Jan | Liliya Mihaylova | 09:00 / 12:00 | IT Center |
 | Exercises + GitHub | 7 / 8 Jan | Tihomir Krastev | 19:30 | IT Center |
-| Revision | 12 Jan | Liliya Mihaylova | 10:00 / 13:30 | IT Center |
-| Exam | 26 Jan | Liliya Mihaylova | 10:00 / 13:30 | IT Center |
+| Revision | 12 Jan | Liliya Mihaylova | 09:00 / 12:00 | IT Center |
+| Exam | 26 Jan | Liliya Mihaylova | 09:00 / 12:00 | IT Center |
 | Final Project | 2 / 3 Feb | All | 09:00 - 18:00 | IT Center |
 
 ## Tutors
