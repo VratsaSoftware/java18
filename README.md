@@ -77,7 +77,7 @@ Channels:
 ### Java Basics
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
-| Data types | [Link]() | [Video]() | [Repo]() |
+| Data types | [Link](https://github.com/VratsaSoftware/java18/tree/master/DataTypes) | [Video]() | [Repo]() |
 | Operators | [Link]() | [Video]() | [Repo]() |
 | Methods | [Link]() | [Video]() | [Repo]() |
 | Conditional statements - Part 1 | [Link]() | [Video]() | [Repo]() |
