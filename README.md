@@ -77,7 +77,7 @@ Channels:
 ### Java Basics
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
-| Data types | [Link](https://github.com/VratsaSoftware/java18/tree/master/DataTypes) | [Video](https://www.youtube.com/watch?v=EEk-QcAobI8&index=2&t=0s&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM) | [Repo]() |
+| Data types | [Link](https://github.com/VratsaSoftware/java18/tree/master/DataTypes) | [Video](https://www.youtube.com/watch?v=EEk-QcAobI8&index=2&t=0s&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/DataTypes/DataTypesRepo) |
 | Operators | [Link]() | [Video]() | [Repo]() |
 | Methods | [Link]() | [Video]() | [Repo]() |
 | Conditional statements - Part 1 | [Link]() | [Video]() | [Repo]() |
