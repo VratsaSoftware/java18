@@ -30,7 +30,7 @@ Github: [Link](https://github.com/VratsaSoftware/java18)
 | Operators |  24 Nov | Liliya Mihaylova | 09:00 / 12:00 | IT Center | 
 | Conditional statements - Part 1 | 27 / 28 Nov | Tihomir Krastev | 19:30 | IT Center |
 | Methods|  1 Dec | Liliya Mihaylova | 09:00 / 12:00 | IT Center |
-| Conditional statements - Part 2 + Loops - Part 1 | 3 / 4 Dec | Tihomir Krastev | 19:30 | IT Center |
+| Conditional statements - Part 2 <br/>+ Loops - Part 1 | 3 / 4 Dec | Tihomir Krastev | 19:30 | IT Center |
 | Loops - Part 2 | 8 Dec | Liliya Mihaylova | 09:00 / 12:00 | IT Center | 
 | Loops - Exercises | 10 / 11 Dec | Tihomir Krastev | 19:30 | IT Center |
 | Arrays - Part 1 | 15 Dec | Liliya Mihaylova | 09:00 / 12:00 | IT Center |
