@@ -56,6 +56,12 @@ Github: [Link](https://github.com/VratsaSoftware/java18)
 
 1 month - A final project - full-scale Java application, combining a lot of the course material
 
+## Homeworks
+
+One week limit to upload the homework after each class.
+
+After this deadline you have to check 3 homeworks in one week.
+
 ## Slack
 
 Slack group: [Link](https://vratsasoftware.slack.com/messages/CDWLPRPNG)
