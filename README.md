@@ -86,7 +86,7 @@ Channels:
 | Data types | [Link](https://github.com/VratsaSoftware/java18/tree/master/DataTypes) | [Video](https://www.youtube.com/watch?v=EEk-QcAobI8&index=2&t=0s&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/DataTypes/DataTypesRepo) |
 | Operators | [Link](https://github.com/VratsaSoftware/java18/tree/master/Operators) | [Video](https://www.youtube.com/watch?v=d-SOvHFPo0I&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&t=0s&index=3) | [Repo]() |
 | Conditional statements - Part 1 | [Link](https://github.com/VratsaSoftware/java18/tree/master/Conditions%20(Part%201)) | [Video](https://www.youtube.com/watch?v=CV-tbS02J6o&t=0s&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=4) | [Repo](https://github.com/VratsaSoftware/java18/blob/master/Conditions%20(Part%201)/Conditions%20(Part%201)%20Repo/src/Demo.java) |
-| Methods | [Link](https://github.com/VratsaSoftware/java18/tree/master/Methods) | [Video]() | [Repo]() |
+| Methods | [Link](https://github.com/VratsaSoftware/java18/tree/master/Methods) | [Video](https://www.youtube.com/watch?v=8tb0_osu-1M&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=5&t=0s) | [Repo]() |
 | Conditional statements - Part 2 | [Link]() | [Video]() | [Repo]()|
 | Loops - Part 1 | [Link]() | [Video]() | [Repo]()|
 | Loops - Part 2 | [Link]() | [Video]() | [Repo]() |
