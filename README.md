@@ -87,8 +87,8 @@ Channels:
 | Operators | [Link](https://github.com/VratsaSoftware/java18/tree/master/Operators) | [Video](https://www.youtube.com/watch?v=d-SOvHFPo0I&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&t=0s&index=3) | [Repo]() |
 | Conditional statements - Part 1 | [Link](https://github.com/VratsaSoftware/java18/tree/master/Conditions%20(Part%201)) | [Video](https://www.youtube.com/watch?v=CV-tbS02J6o&t=0s&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=4) | [Repo](https://github.com/VratsaSoftware/java18/blob/master/Conditions%20(Part%201)/Conditions%20(Part%201)%20Repo/src/Demo.java) |
 | Methods | [Link](https://github.com/VratsaSoftware/java18/tree/master/Methods) | [Video](https://www.youtube.com/watch?v=8tb0_osu-1M&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=5&t=0s) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Methods/MethodsRepo/src) |
-| Conditional statements - Part 2 | [Link]() | [Video]() | [Repo]()|
-| Loops - Part 1 | [Link]() | [Video]() | [Repo]()|
+| Conditional statements - Part 2 | [Link](https://github.com/VratsaSoftware/java18/tree/master/Conditions%20(Part%202)%20%2B%20Loops%20(Part%201)) | [Video](https://www.youtube.com/watch?v=tvBeZGSlvqg&t=0s&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=6) | [Repo](https://github.com/VratsaSoftware/java18/blob/master/Conditions%20(Part%202)%20%2B%20Loops%20(Part%201)/Conditions%20(Part%202)%20%2B%20Loops%20(Part%201)/src/Conditions.java)|
+| Loops - Part 1 | [Link](https://github.com/VratsaSoftware/java18/tree/master/Conditions%20(Part%202)%20%2B%20Loops%20(Part%201)) | [Video](https://youtu.be/tvBeZGSlvqg?list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&t=1298) | [Repo](https://github.com/VratsaSoftware/java18/blob/master/Conditions%20(Part%202)%20%2B%20Loops%20(Part%201)/Conditions%20(Part%202)%20%2B%20Loops%20(Part%201)/src/Loops.java)|
 | Loops - Part 2 | [Link]() | [Video]() | [Repo]() |
 | Loops - Exercises | [Link]() | [Video]() | [Repo]() |
 | Arrays - Part 1 | [Link]() | [Video]() | [Repo]() |
