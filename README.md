@@ -91,7 +91,7 @@ Channels:
 | Loops - Part 1 | [Link](https://github.com/VratsaSoftware/java18/tree/master/Conditions%20(Part%202)%20%2B%20Loops%20(Part%201)) | [Video](https://youtu.be/tvBeZGSlvqg?list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&t=1298) | [Repo](https://github.com/VratsaSoftware/java18/blob/master/Conditions%20(Part%202)%20%2B%20Loops%20(Part%201)/Conditions%20(Part%202)%20%2B%20Loops%20(Part%201)/src/Loops.java)|
 | Loops - Part 2 | [Link](https://github.com/VratsaSoftware/java18/tree/master/Loops%20(Part%202)) | [Video](https://www.youtube.com/watch?v=lBJVUp_lHjY&t=0s&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=7) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Loops%20(Part%202)/LoopsPart2Repo/src) |
 | Loops - Exercises | [Link](https://github.com/VratsaSoftware/java18/tree/master/Loops%20-%20Exercises) | [Video](https://www.youtube.com/watch?v=_n5mjkg-VKs&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=8&t=0s) | [Repo](https://github.com/VratsaSoftware/java18/blob/master/Loops%20-%20Exercises/Loops%20-%20Exercises/src/LoopsDemo.java) |
-| Arrays - Part 1 | [Link]() | [Video]() | [Repo]() |
+| Arrays - Part 1 | [Link](https://github.com/VratsaSoftware/java18/tree/master/Arrays%20(Part%201)) | [Video](https://www.youtube.com/watch?v=eADlfArxSG0&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=9&t=0s) | [Repo]() |
 | Arrays - Part 2 | [Link]() | [Video]() | [Repo]() |
 | Code quality | [Link]() | [Video]() | [Repo]() |
 | Strings | [Link]() | [Video]() | [Repo]() |
