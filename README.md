@@ -92,7 +92,7 @@ Channels:
 | Loops - Part 2 | [Link](https://github.com/VratsaSoftware/java18/tree/master/Loops%20(Part%202)) | [Video](https://www.youtube.com/watch?v=lBJVUp_lHjY&t=0s&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=7) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Loops%20(Part%202)/LoopsPart2Repo/src) |
 | Loops - Exercises | [Link](https://github.com/VratsaSoftware/java18/tree/master/Loops%20-%20Exercises) | [Video](https://www.youtube.com/watch?v=_n5mjkg-VKs&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=8&t=0s) | [Repo](https://github.com/VratsaSoftware/java18/blob/master/Loops%20-%20Exercises/Loops%20-%20Exercises/src/LoopsDemo.java) |
 | Arrays - Part 1 | [Link](https://github.com/VratsaSoftware/java18/tree/master/Arrays%20(Part%201)) | [Video](https://www.youtube.com/watch?v=eADlfArxSG0&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=9&t=0s) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Arrays%20(Part%201)/ArraysPartOneRepo/src) |
-| Arrays - Part 2 | [Link]() | [Video]() | [Repo]() |
+| Arrays - Part 2 | [Link](https://github.com/VratsaSoftware/java18/tree/master/Arrays%20(Part%202)) | [Video](https://www.youtube.com/watch?v=GT-bu8GoozE&t=0s&index=10&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM) | [Repo](https://github.com/VratsaSoftware/java18/blob/master/Arrays%20(Part%202)/Arrays%20(Part%202)/src/ArraysDemo.java) |
 | Code quality | [Link]() | [Video]() | [Repo]() |
 | Strings | [Link]() | [Video]() | [Repo]() |
 | Exercises + GitHub | [Link]() | [Video]() | [Repo]() |
