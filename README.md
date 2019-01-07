@@ -94,7 +94,7 @@ Channels:
 | Arrays - Part 1 | [Link](https://github.com/VratsaSoftware/java18/tree/master/Arrays%20(Part%201)) | [Video](https://www.youtube.com/watch?v=eADlfArxSG0&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=9&t=0s) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Arrays%20(Part%201)/ArraysPartOneRepo/src) |
 | Arrays - Part 2 | [Link](https://github.com/VratsaSoftware/java18/tree/master/Arrays%20(Part%202)) | [Video](https://www.youtube.com/watch?v=GT-bu8GoozE&t=0s&index=10&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM) | [Repo](https://github.com/VratsaSoftware/java18/blob/master/Arrays%20(Part%202)/Arrays%20(Part%202)/src/ArraysDemo.java) |
 | Code quality | [Link]() | [Video]() | [Repo]() |
-| Strings | [Link]() | [Video]() | [Repo]() |
+| Strings | [Link](https://github.com/VratsaSoftware/java18/tree/master/Strings) | [Video](https://www.youtube.com/watch?v=m6oJcVKN8n0&index=11&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&t=0s) | [Repo]() |
 | Exercises + GitHub | [Link]() | [Video]() | [Repo]() |
 
 ## Tutorials
