@@ -38,7 +38,7 @@ Github: [Link](https://github.com/VratsaSoftware/java18)
 | Arrays - Part 2 | 17 / 18 Dec | Tihomir Krastev | 19:30 | IT Center |
 | Code quality | 22 Dec | Teodor Kostadinov | 09:00 / 12:00 | IT Center |
 | Strings | 5 Jan | Liliya Mihaylova | 09:00 / 12:00 | IT Center |
-| Exercises + GitHub | 7 / 8 Jan | Tihomir Krastev | 19:30 | IT Center |
+| GitHub | 7 / 8 Jan | Tihomir Krastev | 19:30 | IT Center |
 | Revision | 12 Jan | Liliya Mihaylova | 09:00 / 12:00 | IT Center |
 | Exam | 26 Jan | Liliya Mihaylova | 09:00 / 12:00 | IT Center |
 | Final Project | 2 / 3 Feb | All | 09:00 - 18:00 | IT Center |
@@ -95,7 +95,7 @@ Channels:
 | Arrays - Part 2 | [Link](https://github.com/VratsaSoftware/java18/tree/master/Arrays%20(Part%202)) | [Video](https://www.youtube.com/watch?v=GT-bu8GoozE&t=0s&index=10&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM) | [Repo](https://github.com/VratsaSoftware/java18/blob/master/Arrays%20(Part%202)/Arrays%20(Part%202)/src/ArraysDemo.java) |
 | Code quality | [Link]() | [Video]() | [Repo]() |
 | Strings | [Link](https://github.com/VratsaSoftware/java18/tree/master/Strings) | [Video](https://www.youtube.com/watch?v=m6oJcVKN8n0&t=2s&index=11&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Strings/StringsRepo/src) |
-| Exercises + GitHub | [Link]() | [Video]() | [Repo]() |
+| GitHub |  | [Video](https://www.youtube.com/watch?v=rHkiCD9O7Tc&index=12&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&t=0s) |  |
 
 ## Tutorials
 
