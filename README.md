@@ -96,6 +96,7 @@ Channels:
 | Code quality | [Link]() | [Video]() | [Repo]() |
 | Strings | [Link](https://github.com/VratsaSoftware/java18/tree/master/Strings) | [Video](https://www.youtube.com/watch?v=m6oJcVKN8n0&t=2s&index=11&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Strings/StringsRepo/src) |
 | GitHub |  | [Video](https://www.youtube.com/watch?v=rHkiCD9O7Tc&index=12&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&t=0s) |  |
+| Revision | [Link]()  | [Video](https://www.youtube.com/watch?v=pQZwKv6Uqg8) |  |
 
 ## Tutorials
 
