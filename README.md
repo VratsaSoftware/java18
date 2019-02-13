@@ -43,6 +43,23 @@ Github: [Link](https://github.com/VratsaSoftware/java18)
 | Exam | 26 Jan | Liliya Mihaylova | 09:00 / 12:00 | IT Center |
 | Final Project | 2 / 3 Feb | All | 09:00 - 18:00 | IT Center |
 
+### Java OOP
+
+| Lecture | Date | Tutor | Time | Hall |
+|---------|:-----|:------|:-----|:-----|
+| OOP basics | 16 Feb | Liliya Mihaylova | 09:00 | IT Center | 
+| OOP fundamentals |  18 Feb | Tihomir Krastev | 19:00 | IT Center | 
+| OOP Exercises | 23 Feb | Liliya Mihaylova | 10:00 | IT Center |
+| Data Structures - Lists |  25 Feb | Tihomir Krastev | 19:00 | IT Center |
+| Data Structures - Stacks and Queues | 09 Mar | Liliya Mihaylova | 09:00 | IT Center |
+| Work with Text Files | 11 Mar | Tihomir Krastev | 19:00 | IT Center | 
+| Design Patterns and UI | 16 Mar | Liliya Mihaylova | 09:00 | IT Center |
+| Generics and Lambda Expressions | 18 Mar | Tihomir Krastev | 19:00  | IT Center |
+| Code quality | 23 Mar | Teodor Kostadinov | 09:00 | IT Center |
+| Revision | 25 Mar | Tihomir Krastev | 19:00 | IT Center |
+| Exam | 30 Mar | Liliya Mihaylova | 09:00 | IT Center |
+| Final Project | 20 Apr | All | 10:00 - 15:00 | IT Center |
+
 ## Tutors
 
 ### Tihomir Krastev
@@ -97,6 +114,20 @@ Channels:
 | Strings | [Link](https://github.com/VratsaSoftware/java18/tree/master/Strings) | [Video](https://www.youtube.com/watch?v=m6oJcVKN8n0&t=2s&index=11&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Strings/StringsRepo/src) |
 | GitHub |  | [Video](https://www.youtube.com/watch?v=rHkiCD9O7Tc&index=12&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&t=0s) |  |
 | Revision | [Link](https://github.com/VratsaSoftware/java18/tree/master/Revision)  | [Video](https://www.youtube.com/watch?v=pQZwKv6Uqg8) |  |
+
+### Java OOP
+| Lecture | Link | Video | Repo |
+|---------|:-----|:------|:-----|
+| OOP basics | [Link]() | [Video]() | [Repo]() |
+| OOP fundamentals | [Link]() | [Video]() | [Repo]() |
+| OOP Exercises | [Link]() | [Video]() | [Repo]() |
+| Data Structures - Lists | [Link]() | [Video]() | [Repo]() |
+| Data Structures - Stacks and Queues | [Link]() | [Video]() | [Repo]() |
+| Work with Text Files | [Link]() | [Video]() | [Repo]() |
+| Design Patterns and UI | [Link]() | [Video]() | [Repo]() |
+| Generics and Lambda Expressions | [Link]() | [Video]() | [Repo]() |
+| Code Quality | [Link]() | [Video]() | [Repo]() |
+| Revision | [Link]() | [Video]() | [Repo]()  |
 
 ## Tutorials
 
