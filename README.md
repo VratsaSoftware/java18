@@ -118,7 +118,7 @@ Channels:
 ### Java OOP
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
-| OOP basics | [Link]() | [Video](https://www.youtube.com/watch?v=0z5bN5YdiKM&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=13&t=1s) | [Repo]() |
+| OOP basics | [Link](https://github.com/VratsaSoftware/java18/tree/master/OOP%20basic) | [Video](https://www.youtube.com/watch?v=0z5bN5YdiKM&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=13&t=1s) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/OOP%20basic/OopBasicsDemo/src) |
 | OOP fundamentals | [Link]() | [Video]() | [Repo]() |
 | OOP Exercises | [Link]() | [Video]() | [Repo]() |
 | Data Structures - Lists | [Link]() | [Video]() | [Repo]() |
