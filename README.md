@@ -120,7 +120,7 @@ Channels:
 |---------|:-----|:------|:-----|
 | OOP basics | [Link](https://github.com/VratsaSoftware/java18/tree/master/OOP%20basic) | [Video](https://www.youtube.com/watch?v=0z5bN5YdiKM&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=13&t=1s) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/OOP%20basic/OopBasicsDemo/src) |
 | OOP fundamentals | [Link]() | [Video]() | [Repo]() |
-| OOP Exercises | [Link]() | [Video]() | [Repo]() |
+| OOP Exercises | [Link]() | [Video](https://www.youtube.com/watch?v=IrqD-wq7oKM&t=0s&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=15) | [Repo]() |
 | Data Structures - Lists | [Link]() | [Video]() | [Repo]() |
 | Data Structures - Stacks and Queues | [Link]() | [Video]() | [Repo]() |
 | Work with Text Files | [Link]() | [Video]() | [Repo]() |
