@@ -121,7 +121,7 @@ Channels:
 | OOP basics | [Link](https://github.com/VratsaSoftware/java18/tree/master/OOP%20basic) | [Video](https://www.youtube.com/watch?v=0z5bN5YdiKM&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=13&t=1s) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/OOP%20basic/OopBasicsDemo/src) |
 | OOP fundamentals | [Link](https://github.com/VratsaSoftware/java18/tree/master/OOP%20Fundamentals) | [Video](https://www.youtube.com/watch?v=u_elqqYyXwY&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=14&t=0s) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/OOP%20Fundamentals/OOP%20Demo/src) |
 | OOP Exercises | [Link](https://github.com/VratsaSoftware/java18/tree/master/OOP%20Exercises) | [Video](https://www.youtube.com/watch?v=IrqD-wq7oKM&t=0s&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=15) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/OOP%20Exercises/OopExcDemo/src) |
-| Data Structures - Lists | [Link](https://github.com/VratsaSoftware/java18/tree/master/Lists) | [Video]() | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Lists/Lists/src) |
+| Data Structures - Lists | [Link](https://github.com/VratsaSoftware/java18/tree/master/Lists) | [Video](https://www.youtube.com/watch?v=WN7H7Olvdn8&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=16&t=0s) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Lists/Lists/src) |
 | Data Structures - Stacks and Queues | [Link]() | [Video]() | [Repo]() |
 | Work with Text Files | [Link]() | [Video]() | [Repo]() |
 | Design Patterns and UI | [Link]() | [Video]() | [Repo]() |
