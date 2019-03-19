@@ -124,7 +124,7 @@ Channels:
 | Data Structures - Lists | [Link](https://github.com/VratsaSoftware/java18/tree/master/Lists) | [Video](https://www.youtube.com/watch?v=WN7H7Olvdn8&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=16&t=0s) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Lists/Lists/src) |
 | Data Structures - Stacks and Queues | [Link](https://github.com/VratsaSoftware/java18/tree/master/Stacks%20and%20Queues) | [Video](https://www.youtube.com/watch?v=MT_eqWyp19Q&t=0s&index=17&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Stacks%20and%20Queues/StackQueueDemo/src) |
 | Work with Text Files | [Link](https://github.com/VratsaSoftware/java18/tree/master/OOP%20Files) | [Video](https://www.youtube.com/watch?v=STJx4fXIVqI&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=18) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/OOP%20Files/Files) |
-| Design Patterns and UI | [Link]() | [Video]() | [Repo]() |
+| Design Patterns and UI | [Link]() | [Video](https://www.youtube.com/watch?v=eFANMfxWriQ&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=20&t=0s) | [Repo]() |
 | Generics and Lambda Expressions | [Link]() | [Video]() | [Repo]() |
 | Code Quality | [Link]() | [Video]() | [Repo]() |
 | Revision | [Link]() | [Video]() | [Repo]()  |
