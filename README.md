@@ -129,6 +129,22 @@ Channels:
 | Code Quality | [Link]() | [Video]() | [Repo]() |
 | Revision | [Link]() | [Video]() | [Repo]()  |
 
+### Android
+| Lecture | Link | Video | Repo |
+|---------|:-----|:------|:-----|
+| Android Introduction | [Link]() | [Video]() | [Repo]()  |
+| Activity & Intents | [Link]() | [Video]() | [Repo]()  |
+| Recyclerview | [Link]() | [Video]() | [Repo]()  |
+| Preferences & Files | [Link]() | [Video]() | [Repo]()  |
+| Databases | [Link]() | [Video]() | [Repo]()  |
+| Exercises | [Link]() | [Video]() | [Repo]()  |
+| Fragments | [Link]() | [Video]() | [Repo]()  |
+| Background work | [Link]() | [Video]() | [Repo]()  |
+| Retrofit | [Link]() | [Video]() | [Repo]()  |
+| Exercises | [Link]() | [Video]() | [Repo]()  |
+| Android Design Patterns | [Link]() | [Video]() | [Repo]()  |
+| Revision | [Link]() | [Video]() | [Repo]()  |
+
 ## Tutorials
 
 ### Slack
