@@ -60,6 +60,24 @@ Github: [Link](https://github.com/VratsaSoftware/java18)
 | Exam | 30 Mar | Liliya Mihaylova | 12:00 | IT Center |
 | Final Project | 20 Apr | All | 10:00 - 15:00 | IT Center |
 
+### Android
+
+| Lecture | Date | Tutor | Time | Hall |
+|---------|:-----|:------|:-----|:-----|
+| Android Intro | 14 May | Tihomir Krastev | 19:00 | IT Center | 
+| Intents & Lifecycle |  18 May | Liliya Mihaylova | 12:00 | IT Center | 
+| RecyclerView | 21 May | Tihomir Krastev | 19:00 | IT Center |
+| Preferences & Files |  28 May | Tihomir Krastev | 19:00 | IT Center |
+| Database | 1 Jun | Liliya Mihaylova | 10:00 | IT Center |
+| Exercises | 4 Jun | Tihomir Krastev | 19:00 | IT Center | 
+| Fragments & Material Design | 8 Jun | Liliya Mihaylova | 10:00 | IT Center |
+| Background work | 11 Jun | Tihomir Krastev | 19:00  | IT Center |
+| Retrofit | 15 Jun | Liliya Mihaylova | 10:00 | IT Center |
+| Exercises | 18 Jun | Tihomir Krastev | 19:00 | IT Center |
+| Android Design Patterns | 22 Jun | Teodor Kostadinov | 10:00 | IT Center |
+| Revision | 25 Jun | Tihomir Krastev | 19:00 | IT Center |
+| Exam | 29 Jun | Liliya Mihaylov | 10:00 | IT Center |
+
 ## Tutors
 
 ### Tihomir Krastev
@@ -134,7 +152,7 @@ Channels:
 |---------|:-----|:------|:-----|
 | Android Introduction | [Link]() | [Video]() | [Repo]()  |
 | Activity & Intents | [Link]() | [Video]() | [Repo]()  |
-| Recyclerview | [Link]() | [Video]() | [Repo]()  |
+| RecyclerView | [Link]() | [Video]() | [Repo]()  |
 | Preferences & Files | [Link]() | [Video]() | [Repo]()  |
 | Databases | [Link]() | [Video]() | [Repo]()  |
 | Exercises | [Link]() | [Video]() | [Repo]()  |
