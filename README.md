@@ -76,7 +76,7 @@ Github: [Link](https://github.com/VratsaSoftware/java18)
 | Exercises | 18 Jun | Tihomir Krastev | 19:00 | IT Center |
 | Android Design Patterns | 22 Jun | Teodor Kostadinov | 10:00 | IT Center |
 | Revision | 25 Jun | Tihomir Krastev | 19:00 | IT Center |
-| Exam | 29 Jun | Liliya Mihaylov | 10:00 | IT Center |
+| Exam | 29 Jun | Liliya Mihaylova | 10:00 | IT Center |
 
 ## Tutors
 
