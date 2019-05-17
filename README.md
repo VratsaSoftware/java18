@@ -65,7 +65,7 @@ Github: [Link](https://github.com/VratsaSoftware/java18)
 | Lecture | Date | Tutor | Time | Hall |
 |---------|:-----|:------|:-----|:-----|
 | Android Intro | 14 May | Tihomir Krastev | 19:00 | IT Center | 
-| Intents & Lifecycle |  18 May | Liliya Mihaylova | 12:00 | IT Center | 
+| Intents & Lifecycle |  18 May | Liliya Mihaylova | 10:00 | IT Center | 
 | RecyclerView | 21 May | Tihomir Krastev | 19:00 | IT Center |
 | Preferences & Files |  28 May | Tihomir Krastev | 19:00 | IT Center |
 | Database | 1 Jun | Liliya Mihaylova | 10:00 | IT Center |
