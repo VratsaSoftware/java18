@@ -151,7 +151,7 @@ Channels:
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
 | Android Introduction | [Link]() | [Video]() | [Repo]()  |
-| Activity & Intents | [Link]() | [Video]() | [Repo]()  |
+| Intents & Lifecycle | [Link]() | [Video]() | [Repo]()  |
 | RecyclerView | [Link]() | [Video]() | [Repo]()  |
 | Preferences & Files | [Link]() | [Video]() | [Repo]()  |
 | Databases | [Link]() | [Video]() | [Repo]()  |
