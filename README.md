@@ -150,8 +150,8 @@ Channels:
 ### Android
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
-| Android Introduction | [Link]() | [Video]() | [Repo]()  |
-| Intents & Lifecycle | [Link]() | [Video]() | [Repo]()  |
+| Android Introduction | [Link](https://github.com/VratsaSoftware/java18/tree/master/Android%20Intro) | [Video]() | [Repo]()  |
+| Intents & Lifecycle | [Link](https://github.com/VratsaSoftware/java18/tree/master/Intents%20%26%20Lifecycle) | [Video]() | [Repo]()  |
 | RecyclerView | [Link]() | [Video]() | [Repo]()  |
 | Preferences & Files | [Link]() | [Video]() | [Repo]()  |
 | Databases | [Link]() | [Video]() | [Repo]()  |
