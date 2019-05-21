@@ -151,7 +151,7 @@ Channels:
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
 | Android Introduction | [Link]() | [Video]() | [Repo]()  |
-| Intents & Lifecycle | [Link](https://github.com/VratsaSoftware/java18/tree/master/Intents%20%26%20Lifecycle/BaseUiElements) [Link](https://github.com/VratsaSoftware/java18/tree/master/Intents%20%26%20Lifecycle/Intents%26Lifecycle) | [Video]() | [Repo]()  |
+| Intents & Lifecycle | [Link](https://github.com/VratsaSoftware/java18/tree/master/Intents%20%26%20Lifecycle/BaseUiElements) [Link](https://github.com/VratsaSoftware/java18/tree/master/Intents%20%26%20Lifecycle/Intents%26Lifecycle) | [Video](https://www.youtube.com/watch?v=UdioZp_vPbQ&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=23&t=3s) | [Repo]()  |
 | RecyclerView | [Link]() | [Video]() | [Repo]()  |
 | Preferences & Files | [Link]() | [Video]() | [Repo]()  |
 | Databases | [Link]() | [Video]() | [Repo]()  |
