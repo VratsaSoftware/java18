@@ -153,7 +153,7 @@ Channels:
 | Android Introduction | [Link]() | [Video]() | [Repo]()  |
 | Intents & Lifecycle | [Link](https://github.com/VratsaSoftware/java18/tree/master/Intents%20%26%20Lifecycle/BaseUiElements) [Link](https://github.com/VratsaSoftware/java18/tree/master/Intents%20%26%20Lifecycle/Intents%26Lifecycle) | [Video](https://www.youtube.com/watch?v=UdioZp_vPbQ&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=23&t=3s) | [Repo]()  |
 | RecyclerView | [Link](https://github.com/VratsaSoftware/java18/tree/master/Adapters%20%26%20RecyclerView) | [Video](https://www.youtube.com/watch?v=mRiL-OEu2l4&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=24&t=0s) | [Repo]()  |
-| Preferences & Files | [Link]() | [Video]() | [Repo]()  |
+| Preferences & Files | [Link](https://github.com/VratsaSoftware/java18/tree/master/Preferences%20and%20Files) | [Video](https://www.youtube.com/watch?v=mOM-9MnqKTg&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=25&t=0s) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Preferences%20and%20Files)  |
 | Databases | [Link]() | [Video]() | [Repo]()  |
 | Exercises | [Link]() | [Video]() | [Repo]()  |
 | Fragments | [Link]() | [Video]() | [Repo]()  |
