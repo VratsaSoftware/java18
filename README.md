@@ -157,9 +157,9 @@ Channels:
 | Databases | [Link](https://github.com/VratsaSoftware/java18/tree/master/Database) | [Video](https://www.youtube.com/watch?v=2U0VxFEsaDI&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=27&t=0s) | [Repo]()  |
 | Exercises | [Link]() | [Video]() | [Repo]()  |
 | Fragments | [Link](https://github.com/VratsaSoftware/java18/tree/master/Fragments) | [Video]() | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Fragments/FragmentsDemoApp)  |
-| Background work | [Link]() | [Video]() | [Repo]()  |
+| Background work | [Link](https://github.com/VratsaSoftware/java18/tree/master/Background%20work) | [Video]() | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Background%20work)  |
 | Retrofit | [Link]() | [Video]() | [Repo]()  |
-| Exercises | [Link]() | [Video]() | [Repo]()  |
+| Exercises | [Link]() | [Video]() | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Retrofit%20Exercises/WeatherApplication)  |
 | Android Design Patterns | [Link]() | [Video]() | [Repo]()  |
 | Revision | [Link]() | [Video]() | [Repo]()  |
 
