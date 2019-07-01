@@ -160,7 +160,7 @@ Channels:
 | Background work | [Link](https://github.com/VratsaSoftware/java18/tree/master/Background%20work) | [Video]() | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Background%20work)  |
 | Retrofit | [Link](https://github.com/VratsaSoftware/java18/tree/master/Retrofit) | [Video](https://www.youtube.com/watch?v=Has3Lr5YWbM&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=30&t=1s) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Retrofit/RetrofitDemoApp)  |
 | Exercises | [Link]() | [Video]() | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Retrofit%20Exercises/WeatherApplication)  |
-| Android Design Patterns | [Link]() | [Video]() | [Repo]()  |
+| Android Design Patterns | [Link](https://github.com/VratsaSoftware/java18/tree/master/SimpleDemo) | [Video](https://www.youtube.com/watch?v=k0BZ7jniDSw&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=31&t=4s) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/SimpleDemo/DemoProject)  |
 | Revision | [Link]() | [Video]() | [Repo]()  |
 
 ## Tutorials
