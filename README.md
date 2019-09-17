@@ -78,6 +78,23 @@ Github: [Link](https://github.com/VratsaSoftware/java18)
 | Revision | 25 Jun | Tihomir Krastev | 19:00 | IT Center |
 | Exam | 29 Jun | Liliya Mihaylova | 10:00 | IT Center |
 
+### Java Web
+
+| Lecture | Date | Tutor | Time | Hall |
+|---------|:-----|:------|:-----|:-----|
+| Web Development. Basic terms (Html & CSS) | 17 Sep | Tihomir Krastev | 19:00 | IT Center | 
+| Web Application Basics |  24 Sep | Tihomir Krastev | 19:00 | IT Center | 
+| Exercises | 28 Sep | Liliya Mihaylova | 9:30 | IT Center |
+| Database |  1 Oct | Tihomir Krastev | 19:00 | IT Center |
+| Servlets | 5 Oct | Liliya Mihaylova | 09:30 | IT Center |
+| Exercises | 8 Oct | Tihomir Krastev | 19:00 | IT Center | 
+| Hibernate | 12 Oct | Liliya Mihaylova | 09:30  | IT Center |
+| Exercises (Hibernate) | 15 Oct | Tihomir Krastev | 19:00 | IT Center |
+| Revision | 22 Oct | Tihomir Krastev | 19:00 | IT Center |
+| Design Patterns & UnitTests | 26 Oct | Teodor Kostadinov | 10:00 | IT Center |
+| Exam | 2 Nov | Liliya Mihaylova | 10:00 | IT Center |
+| Final Project |  | All |  | IT Center |
+
 ## Tutors
 
 ### Tihomir Krastev
@@ -162,6 +179,21 @@ Channels:
 | Exercises | [Link]() | [Video]() | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Retrofit%20Exercises/WeatherApplication)  |
 | Android Design Patterns | [Link](https://github.com/VratsaSoftware/java18/tree/master/SimpleDemo) | [Video](https://www.youtube.com/watch?v=k0BZ7jniDSw&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=31&t=4s) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/SimpleDemo/DemoProject)  |
 | Revision | [Link]() | [Video]() | [Repo]()  |
+
+### Java Web
+| Lecture | Link | Video | Repo |
+|---------|:-----|:------|:-----|
+| Web Development. Basic terms (Html & CSS) | [Link]() | [Video]() | [Repo]()  |
+| Web Application Basics | [Link]() | [Video]() | [Repo]()  |
+| Exercises | [Link]() | [Video]() | [Repo]()  |
+| Database | [Link]() | [Video]() | [Repo]()  |
+| Servlets | [Link]() | [Video]() | [Repo]()  |
+| Exercises | [Link]() | [Video]() | [Repo]()  |
+| Hibernate | [Link]() | [Video]() | [Repo]()  |
+| Exercises (Hibernate) | [Link]() | [Video]() | [Repo]()  |
+| Revision | [Link]() | [Video]() | [Repo]()  |
+| Design Patterns & UnitTests | [Link]() | [Video]() | [Repo]()  |
+
 
 ## Tutorials
 
