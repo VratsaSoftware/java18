@@ -84,8 +84,8 @@ Github: [Link](https://github.com/VratsaSoftware/java18)
 |---------|:-----|:------|:-----|:-----|
 | Web Development. Basic terms (Html & CSS) | 17 Sep | Tihomir Krastev | 19:00 | IT Center | 
 | Web Application Basics |  24 Sep | Tihomir Krastev | 19:00 | IT Center | 
-| Exercises | 28 Sep | Liliya Mihaylova | 9:30 | IT Center |
-| Database |  1 Oct | Tihomir Krastev | 19:00 | IT Center |
+| Database |  28 Sep | Liliya Mihaylova | 9:30 | IT Center |
+| Exercises | 1 Oct | Tihomir Krastev | 19:00 | IT Center |
 | Servlets | 5 Oct | Liliya Mihaylova | 09:30 | IT Center |
 | Exercises | 8 Oct | Tihomir Krastev | 19:00 | IT Center | 
 | Hibernate | 12 Oct | Liliya Mihaylova | 09:30  | IT Center |
@@ -185,8 +185,8 @@ Channels:
 |---------|:-----|:------|:-----|
 | Web Development. Basic terms (Html & CSS) | [Link]() | [Video]() | [Repo]()  |
 | Web Application Basics | [Link]() | [Video]() | [Repo]()  |
-| Exercises | [Link]() | [Video]() | [Repo]()  |
 | Database | [Link]() | [Video]() | [Repo]()  |
+| Exercises | [Link]() | [Video]() | [Repo]()  |
 | Servlets | [Link]() | [Video]() | [Repo]()  |
 | Exercises | [Link]() | [Video]() | [Repo]()  |
 | Hibernate | [Link]() | [Video]() | [Repo]()  |
