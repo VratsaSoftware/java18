@@ -188,7 +188,7 @@ Channels:
 | Database | [Link](https://github.com/VratsaSoftware/java18/tree/master/Java%20Web%20Database) | [Video](https://www.youtube.com/watch?v=iS-g8tBicbE&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=32&t=0s) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Java%20Web%20Database/LibraryTest)  |
 | Exercises | [Link](https://github.com/VratsaSoftware/java18/tree/master/JSP%20%26%20Database%20Exercises/DB-Demo) | [Video](https://www.youtube.com/watch?v=5mvQLQ7fDNs) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/JSP%20%26%20Database%20Exercises/DB-Demo)  |
 | Servlets | [Link](https://github.com/VratsaSoftware/java18/tree/master/Servlets) | [Video](https://www.youtube.com/watch?v=9qYIX4TTu6A&feature=youtu.be) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Servlets/ServletDemo)  |
-| Exercises | [Link]() | [Video]() | [Repo]()  |
+| Exercises | [Link](https://github.com/VratsaSoftware/java18/tree/master/Servlets%20-%20Exercise) | [Video](https://www.youtube.com/watch?v=xXpP2nmOQ3E&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=36) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Servlets%20-%20Exercise/DB-Demo)  |
 | Hibernate | [Link]() | [Video]() | [Repo]()  |
 | Exercises (Hibernate) | [Link]() | [Video]() | [Repo]()  |
 | Revision | [Link]() | [Video]() | [Repo]()  |
