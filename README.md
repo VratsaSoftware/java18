@@ -190,7 +190,7 @@ Channels:
 | Servlets | [Link](https://github.com/VratsaSoftware/java18/tree/master/Servlets) | [Video](https://www.youtube.com/watch?v=9qYIX4TTu6A&feature=youtu.be) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Servlets/ServletDemo)  |
 | Exercises | [Link](https://github.com/VratsaSoftware/java18/tree/master/Servlets%20-%20Exercise) | [Video](https://www.youtube.com/watch?v=xXpP2nmOQ3E&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=36) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Servlets%20-%20Exercise/DB-Demo)  |
 | Hibernate | [Link](https://github.com/VratsaSoftware/java18/tree/master/hibernate) | [Video](https://www.youtube.com/watch?v=PJEYxLvvWDk&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=38&t=0s) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/hibernate/HibernateDemo)  |
-| Exercises (Hibernate) | [Link]() | [Video]() | [Repo]()  |
+| Exercises (Hibernate) | [Link](https://github.com/VratsaSoftware/java18/tree/master/Hibernate%20Exercise/) | [Video](https://www.youtube.com/watch?v=G6XjvQwkFB4&list=PLQFk-VQC2oBYKRFkJF71og2gDnecHdnOM&index=39&t=0s) | [Repo](https://github.com/VratsaSoftware/java18/tree/master/Hibernate%20Exercise/Hibernate-Exercise)  |
 | Revision | [Link]() | [Video]() | [Repo]()  |
 | Design Patterns & UnitTests | [Link]() | [Video]() | [Repo]()  |
 
