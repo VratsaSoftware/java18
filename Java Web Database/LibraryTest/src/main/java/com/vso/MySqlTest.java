@@ -71,6 +71,7 @@ public class MySqlTest {
     }
 
     public void readData() {
+		// TEST
         try {
             Statement stmt = conn.createStatement();
             ResultSet rs = stmt.executeQuery("SELECT * FROM books;");
